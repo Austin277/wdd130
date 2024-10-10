@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgb(95, 146, 234);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px
+}
+h1:hover{
+    color: black;
+}
+ol{
+    color: black;
+    font-weight: 900;
+
+}
+
+img{ 
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+p{
+
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+}

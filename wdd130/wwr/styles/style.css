@@ -1,0 +1,87 @@
+body {
+    background-color: #fcfbfb; 
+}
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto; 
+}
+
+
+header {
+    background-color: rgba(20, 30, 13, 0.7); 
+}
+
+nav a {
+    text-align: center;
+    color: #cdb55e;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #cdb55e;
+}
+
+
+#hero-img {
+    width: 100%; 
+}
+
+
+.logo {
+    width: 80px;
+}
+
+.icon {
+    width: 80px; 
+}
+
+
+#background {
+    height: 725px;
+    background-color: #cdb55e; 
+}
+
+
+.msg {
+    text-align: center;
+    padding: 20px; 
+}
+
+.msg h2, .msg p {
+    color: #333; 
+}
+
+.book, .join {
+    background-color: #cdb55e; 
+    color: #333; 
+}
+
+.book, .join {
+    background-color: #cdb55e;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 20px; 
+}
+
+footer p {
+    font-size: 1.2em; 
+}
+
+footer p {
+    color: #333; 
+    text-decoration: none; 
+}
+
+footer p a:hover {
+    text-decoration: underline; 
+}
+
+.social img {
+    width: 30px;
+    margin: 0 5px; 
+}
